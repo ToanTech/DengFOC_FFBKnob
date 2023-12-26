@@ -1,6 +1,7 @@
 # DengFOC_FFBKnob
 
 灯哥开源力反馈旋钮 是基于DengFOC V4驱动板开发的一个开源小巧无刷力控旋钮应用套件。
+<div align=center> <img src="Image\FFBKnob.png" width = 90% /> </div>
 
 ## 演示视频
 [旋钮演示视频](https://www.bilibili.com/video/BV19C4y1X7oA)
